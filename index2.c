@@ -48,4 +48,4 @@ float getDiscountPrice(int noOfGuests, float chargePerGuest){
 
 float getAmount(int noOfGuests, float chargePerGuest, float discount){
     return (noOfGuests * chargePerGuest) - discount;        // Calculate total bill
-}
+}"Extra content for file 1" 
